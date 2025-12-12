@@ -43,3 +43,8 @@ app-example
 /android
 /.idea/
 /.vscode/
+
+# Expo
+.expo
+dist/
+web-build/

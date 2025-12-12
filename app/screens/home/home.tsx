@@ -7,6 +7,9 @@ export default function HomeScreen() {
 
   return (
     <View style={[{paddingTop: top, paddingBottom: bottom }]}>
+      
+      <View style={[{backgroundColor: 'red', width: 200, height: 200}]}>
+      </View>
       <View style={[{backgroundColor: 'red', width: 200, height: 200}]}>
       </View>
     </View>
